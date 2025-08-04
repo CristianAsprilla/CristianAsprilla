@@ -20,7 +20,7 @@ Here's a glimpse into the technologies and tools I frequently work with:
 
 - Languages: Python (Pandas, NumPy, Scikit-learn), R (ggplot2, dplyr), SQL, Java, JavaScript
 
-- Data Analysis & Visualization: Jupyter Notebooks, RStudio, Tableau (if applicable), Matplotlib, Seaborn, ggplot2, interactive dashboards
+- Data Analysis & Visualization: Jupyter Notebooks, RStudio, Power BI, Matplotlib, Seaborn, ggplot2, interactive dashboards
 
 - Frameworks/Libraries: Spring Boot, Thymeleaf, Bootstrap
 
